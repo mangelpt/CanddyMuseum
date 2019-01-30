@@ -1,4 +1,4 @@
-* {
+.main {
     background: #f5d9d5;
     font-family: 'Nunito', sans-serif;
 }
@@ -29,3 +29,22 @@
 
 }
 
+
+/* icon font */
+.icon{
+    font-size: 30px;
+}
+
+.title2{
+    color: #EA1C2C;
+    font-family: 'Nunito', sans-serif;
+    font-weight:100;
+}
+
+.blurb p{
+    color: #f498b8;
+}
+
+.content{
+    margin-top: 50px;
+}
