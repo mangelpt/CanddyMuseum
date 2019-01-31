@@ -2,55 +2,60 @@
     background: #f5d9d5;
     font-family: 'Nunito', sans-serif;
 }
-#mainNavbar{
+
+#mainNavbar {
     font-size: 1.5rem;
     font-weight: 100;
 }
-#mainNavbar .nav-link{
+
+#mainNavbar .nav-link {
     color: #ffffff;
 }
 
-#mainNavbar .nav-link:hover{
+#mainNavbar .nav-link:hover {
     color: #EA1C2C;
 }
+
 #mainNavbar .navbar-brand {
     color: #EA1C2C;
     font-size: 1.5rem;
 }
+
 /* head*/
 
-#title span{
+#title span {
     color: #EA1C2C;
     font-weight: 100;
 }
 
 /* media query */
-@media(max-width: 1200px) {
+@media (max-width: 1200px) {
 
 }
 
 
 /* icon font */
-.icon{
+.icon {
     font-size: 30px;
 }
 
-.title2{
+.title2 {
     color: #EA1C2C;
     font-family: 'Nunito', sans-serif;
-    font-weight:100;
+    font-weight: 100;
 }
 
-.blurb p{
+.blurb p {
     color: #f498b8;
 }
 
-.content{
+.content {
     margin-top: 50px;
     margin-bottom: 50px;
 }
 
 /* nav bar style*/
-.navbar.scrolled{
+.navbar.scrolled {
     background: #E9B6BD;
+    transition: background 500ms;
 }
